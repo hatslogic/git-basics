@@ -12,6 +12,7 @@
         <div class="row justify-content-center">
           <div class="col-md-6">
             <h3 class="heading mb-4">Let's talk about everything!</h3>
+            <p>Phone: 00123 456</p>
             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptas debitis, fugit natus?</p>
             <p>
               <img src="images/undraw-contact.svg" alt="Image" class="img-fluid">
