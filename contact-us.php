@@ -2,7 +2,7 @@
 <html>
 
 <head>
-  <title>Contact us</title>
+  <title>Contact us | Hello</title>
 </head>
 
 <body>
