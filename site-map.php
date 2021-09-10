@@ -2,7 +2,7 @@
 <html>
 
 <head>
-  <title>Site map</title>
+  <title>Site map | Title</title>
 </head>
 
 <body>
